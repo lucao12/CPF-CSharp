@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\CPF\CPF\bin\Debug\net6.0\CPF.exe
+C:\Users\lucas\source\repos\CPF\CPF\bin\Debug\net6.0\CPF.deps.json
+C:\Users\lucas\source\repos\CPF\CPF\bin\Debug\net6.0\CPF.runtimeconfig.json
+C:\Users\lucas\source\repos\CPF\CPF\bin\Debug\net6.0\CPF.dll
+C:\Users\lucas\source\repos\CPF\CPF\bin\Debug\net6.0\CPF.pdb
+C:\Users\lucas\source\repos\CPF\CPF\obj\Debug\net6.0\CPF.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\CPF\CPF\obj\Debug\net6.0\CPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\CPF\CPF\obj\Debug\net6.0\CPF.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\CPF\CPF\obj\Debug\net6.0\CPF.AssemblyInfo.cs
+C:\Users\lucas\source\repos\CPF\CPF\obj\Debug\net6.0\CPF.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\CPF\CPF\obj\Debug\net6.0\CPF.dll
+C:\Users\lucas\source\repos\CPF\CPF\obj\Debug\net6.0\refint\CPF.dll
+C:\Users\lucas\source\repos\CPF\CPF\obj\Debug\net6.0\CPF.pdb
+C:\Users\lucas\source\repos\CPF\CPF\obj\Debug\net6.0\CPF.genruntimeconfig.cache
+C:\Users\lucas\source\repos\CPF\CPF\obj\Debug\net6.0\ref\CPF.dll
